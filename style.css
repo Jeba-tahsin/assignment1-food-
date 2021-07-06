@@ -25,7 +25,7 @@ section{
     padding: 6%;
 }
 .width img{
-    width: 130%;
+    width: 100%;
 }
 #margin{
     margin-top: 150px;
@@ -58,4 +58,6 @@ a{
 }
 .youtube{
     display: flex;
+    box-shadow: 10px 5px 40px gray;
+    border: blanchedalmond;
 }
