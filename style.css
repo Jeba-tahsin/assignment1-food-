@@ -40,16 +40,22 @@ a{
     font-weight: 700px;
 }
 #size{
-    width: 20%;
-    margin-left: 50px;
+    width:400px;
+    margin-left:90px;
 }
 #margin1{
-    margin-top: 100px;
     margin-left: 150px;
+}
+.bg-imag{
+    background-image: url(images/9.jpg);
+    background-position: cover;
+    margin-bottom: 40px;
+    
 }
 .bg-img1{
     background-image: url(images/7.png);
-    background-repeat: no-repeat;
+    background-repeat:no-repeat;
+    margin: 0;
 }
 .recipies{
     text-align: center;
@@ -64,10 +70,31 @@ a{
     margin-left: 150px;
     margin-right: 150px;
     border-radius: 20px;
+    margin-bottom: 70px;
 }
 .black{
     background-color:rgb(31, 28, 28);
     padding-left: 35%;
     padding-right: 35%;
+    padding-top: 4%;
+    padding-bottom: 4%;
     text-align: center;
+}
+.card-box{
+    box-shadow: 10px 5px 40px gray;
+    margin: 50px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.card-box img{
+    border-radius: 20px;
+}
+.menu{
+    box-shadow: 10px 5px 40px gray;
+    font-weight: 400px;
+    margin-right: 900px;
+    margin-left:100px ;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    padding: 20px;
 }
