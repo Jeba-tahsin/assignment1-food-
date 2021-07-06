@@ -60,4 +60,14 @@ a{
     display: flex;
     box-shadow: 10px 5px 40px gray;
     border: blanchedalmond;
+    padding: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 20px;
+}
+.black{
+    background-color:rgb(31, 28, 28);
+    padding-left: 35%;
+    padding-right: 35%;
+    text-align: center;
 }
