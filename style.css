@@ -9,13 +9,13 @@ p{
 }
 body{
     font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
 }
 .orange{
     color: orange;
 }
 section{
     display: flex;
-    margin-left: 15px;
 }
 .width{
     width: 50%;
@@ -35,4 +35,16 @@ a{
     color: white;
     border-radius: 35px;
     font-weight: 700px;
+}
+#size{
+    width: 20%;
+    margin-left: 50px;
+}
+#margin1{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.bg-img1{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
 }
