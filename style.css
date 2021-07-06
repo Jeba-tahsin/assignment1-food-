@@ -3,6 +3,9 @@ h1{
     color:rgb(24, 21, 21);
     margin: 0;
 }
+h2{
+    font-size: 30px;
+}
 p{
     font-size: 20px;
     color: grey;
@@ -47,4 +50,9 @@ a{
 .bg-img1{
     background-image: url(images/7.png);
     background-repeat: no-repeat;
+}
+.recipies{
+    text-align: center;
+    margin-left:300px ;
+    margin-right:300px ;
 }
